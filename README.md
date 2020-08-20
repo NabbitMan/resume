@@ -23,3 +23,4 @@ My resume
 
 ## Architecture & Design Patterns
 
+## Data Platforms
