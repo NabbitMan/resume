@@ -1,21 +1,26 @@
 # resume
 My resume
 
-## DevOps
+# DevOps
 
-### Operations
+## Operations
 
-### Continuous Delivery
+## Continuous Delivery
 
-### Cloud Operations
+## Cloud Operations
 
-### Infrastructure Provisioning
+## Infrastructure Provisioning
 
-### Configuration Management
+## Configuration Management
 
-### Containerization
+## Containerization
+### Redhat Openshift
+I am having hands-on experience developing, installing, configuring, managing and deploying applications to Redhat OCP
 
-### Observability
+### Kubernetes
+** Certified Kubernetes Application Developer **
+
+## Observability
 
 ## Backend Programming
 
