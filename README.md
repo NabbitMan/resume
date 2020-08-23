@@ -18,14 +18,14 @@ My resume
 I am having hands-on experience developing, installing, configuring, managing and deploying applications to Redhat OCP
 
 ### Kubernetes
-** Certified Kubernetes Application Developer **
+**Certified Kubernetes Application Developer**
 
 ## Observability
 
-## Backend Programming
+# Backend Programming
 
-## Frontend Programming
+# Frontend Programming
 
-## Architecture & Design Patterns
+# Architecture & Design Patterns
 
-## Data Platforms
+# Data Platforms
