@@ -8,6 +8,9 @@ My resume
 ## Continuous Delivery
 
 ## Cloud Operations
+### AWS Security - Infrastructure
+- secure IAM user access, by enabling MFA access, cloud trail, and by assigning managed policies to user
+- 
 
 ## Infrastructure Provisioning
 
